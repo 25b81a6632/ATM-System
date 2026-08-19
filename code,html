@@ -1,0 +1,14 @@
+<!DOCTYPE html>
+<html>
+<head>
+    <title>ATM</title>
+</head>
+<body>
+
+<h2>ATM SYSTEM</h2>
+
+<input type="password" placeholder="Enter PIN">
+<button>Login</button>
+
+</body>
+</html>
